@@ -2,7 +2,7 @@
 
 **A role-based Model-Driven Power App for university placement lifecycle management, with Power BI reporting and a Canvas App visit-planning module.**
 
-Built on Dataverse for the University of Leicester, this app coordinates work placements end-to-end across four roles — Student, Tutor, Admin, and Provider — replacing manual tracking and reporting with a single governed system.
+Built on Dataverse for the University of Leicester, this app coordinates work placements end-to-end across four roles Student, Tutor, Admin, and Provider replacing manual tracking and reporting with a single governed system.
 
 ## What it does
 
@@ -15,7 +15,7 @@ Each role is scoped with Dataverse-backed security roles, and the placement proc
 
 ## Reporting
 
-Power BI dashboards aggregate placements, tutor visits, and student reflections into real-time KPIs — giving stakeholders live placement oversight in place of manual, spreadsheet-based reporting.
+Power BI dashboards aggregate placements, tutor visits, and student reflections into real-time KPIs giving stakeholders live placement oversight in place of manual, spreadsheet-based reporting.
 
 ## Visit Planning
 
